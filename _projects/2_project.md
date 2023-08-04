@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Project 2
+description: Building SMART Rodent Control System in New York City - The research project aims to provide the New York City Department of Health and Mental Hygiene (DOHMH) with a more sustainable and non-toxic rodent control program, the SMART rodent control system.
+img: assets/img/mouse.jpg
+redirect: https://storymaps.arcgis.com/stories/fa25fdb18000465bb3d8a24691636b9d
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

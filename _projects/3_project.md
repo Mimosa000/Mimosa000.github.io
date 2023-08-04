@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Project 3
+description: Multimodal Machine Learning for Spatiotemporal Identification of Sound Sources in the NYC Subway System - The objective of this research is to explore the association among people crowds (human-generated noise) and structure (vehicle-generated noise), and noise levels within the stations.
+img: assets/img/subwaynoise.jpg
+redirect: https://joyceyin.github.io./projects/CapstoneSubway/js-basics/index.html
 importance: 3
 category: work
 ---

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Project 1
+description: Investigating Health Inequities in London - The study seeks to uncover spatial and socio-economic factors contributing to health disparities across the city and provide valuable insights for policy-making and interventions.
+img: assets/img/ineq-cover.png
+redirect: https://storymaps.arcgis.com/stories/6272ec1a32854ce9826938c719e5089e
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
