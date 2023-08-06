@@ -17,12 +17,13 @@
   "work": [
     {
       "name": "Kingsoft Shiyou Interactive Entertainment Technology Co ltd, Beijing, China",
-      "position": "Professor of Theoretical Physics",
+      "position": "Data Analyst Intern",
       "startDate": "Jul 2021",
       "endDate": "Dec 2021",
       "summary": "Utilized advanced data analysis techniques to optimize performance for 2 different overseas game groups. Conducted thorough data analysis of player behavior by tracking events using SQL and Excel, resulting in improved player engagement and retention. Employed predictive modeling and clustering techniques with R to generate actionable insights and optimize game design.",
       "highlights": [
-        "SQL","R"
+        "SQL",
+        "R"
       ]
     }
   ],
@@ -36,7 +37,7 @@
       "endDate": "Jul 2023",
       "GPA": "3.9/4.0",
       "courses": [
-        "Urban Spatial Analytics"
+        "Urban Spatial Analytics",
         "Applied Data Science",
         "Data Governance, Ethics and Privacy",
         "Big Data Management & Analysis",
@@ -64,13 +65,12 @@
   "awards": [
     {
       "title": "NYU Tandon School of Engineering Graduate Scholarship",
-      "startDate": "Sep 2022",
-      "endDate": "May 2023",
+      "date": "May 2023",
       "awarder": "NYU Tandon School of Engineering"
     },
     {
       "title": "Honorary Title of Excellent Student Leader",
-      "date": "Dec 2020"
+      "date": "Dec 2020",
       "awarder": "Beijing University of Technology"
     },
     {
@@ -86,7 +86,56 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "R",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "SQL",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "Hadoop",
+      "keywords": "Proficient"
+    },
+    {
+      "name": "Spark",
+      "keywords": "Proficient"
+    },
+    {
+      "name": "Git",
+      "keywords": "Proficient"
+    },
+    {
+      "name": "SPSS",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "Weka",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "Microsoft Excel",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "ArcGIS Pro",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "ArcGIS Online",
+      "keywords": "Advanced"
+    },
+    {
+      "name": "Tableau",
+      "keywords": "Proficient"
+    }
+  ],
   "languages": [
     {
       "language": "Mandarin",
@@ -95,6 +144,14 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Entry level"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Entry level"
     }
   ],
   "interests": [],
