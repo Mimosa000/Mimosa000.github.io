@@ -6,20 +6,13 @@
     "email": "zz4543@nyu.edu",
     "phone": "+1 (551) 344-7538",
     "url": "https://mimosa000.github.io/",
-    "about myself": "Cat lover",
     "location": {
       "address": "180 Morgan St",
       "postalCode": "NJ 07302",
       "city": "Jersey City",
       "countryCode": "US"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -27,10 +20,7 @@
       "position": "Professor of Theoretical Physics",
       "startDate": "Jul 2021",
       "endDate": "Dec 2021",
-      "summary": "●	Utilized advanced data analysis techniques to optimize performance for 2 different overseas game groups.
-●	Conducted thorough data analysis of player behavior by tracking events using SQL and Excel, resulting in improved player engagement and retention.
-●	Employed predictive modeling and clustering techniques with R to generate actionable insights and optimize game design.
-",
+      "summary": "Utilized advanced data analysis techniques to optimize performance for 2 different overseas game groups. Conducted thorough data analysis of player behavior by tracking events using SQL and Excel, resulting in improved player engagement and retention. Employed predictive modeling and clustering techniques with R to generate actionable insights and optimize game design.",
       "highlights": [
         "SQL","R"
       ]
@@ -47,14 +37,51 @@
       "GPA": "3.9/4.0",
       "courses": [
         "Urban Spatial Analytics"
+        "Applied Data Science",
+        "Data Governance, Ethics and Privacy",
+        "Big Data Management & Analysis",
+        "Large Scale Data Analysis"
+      ]
+    },
+    {
+      "institution": "Beijing University of Technology, Beijing, China",
+      "area": "Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "Sep 2018",
+      "endDate": "Jul 2022",
+      "GPA": "3.8/4.0",
+      "courses": [
+        "Probability Theory",
+        "Mathematical Statistics",
+        "Data Analysis and Statistics Software",
+        "Sampling Theory and Methods",
+        "Time Series Analysis",
+        "Database Technologies",
+        "Machine Learning"
       ]
     }
   ],
   "awards": [
     {
       "title": "NYU Tandon School of Engineering Graduate Scholarship",
-      "date": "May 2023",
+      "startDate": "Sep 2022",
+      "endDate": "May 2023",
       "awarder": "NYU Tandon School of Engineering"
+    },
+    {
+      "title": "Honorary Title of Excellent Student Leader",
+      "date": "Dec 2020"
+      "awarder": "Beijing University of Technology"
+    },
+    {
+      "title": "2020 National Undergraduate Mathematical Contest - Beijing Division, Group A, Second Prize",
+      "date": "Oct 2020",
+      "awarder": "China Society for Industrial and Applied Mathematics"
+    },
+    {
+      "title": "Outstanding Study Scholarship",
+      "date": "Dec 2019",
+      "awarder": "Beijing University of Technology"
     }
   ],
   "certificates": [],
